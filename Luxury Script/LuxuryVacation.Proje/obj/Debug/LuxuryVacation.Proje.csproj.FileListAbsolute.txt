@@ -1,0 +1,12 @@
+C:\Users\furkan\source\repos\LuxuryVacation.Proje\LuxuryVacation.Proje\bin\Debug\LuxuryVacation.Proje.exe.config
+C:\Users\furkan\source\repos\LuxuryVacation.Proje\LuxuryVacation.Proje\bin\Debug\LuxuryVacation.Proje.exe
+C:\Users\furkan\source\repos\LuxuryVacation.Proje\LuxuryVacation.Proje\bin\Debug\LuxuryVacation.Proje.pdb
+C:\Users\furkan\source\repos\LuxuryVacation.Proje\LuxuryVacation.Proje\obj\Debug\LuxuryVacation.Proje.csproj.AssemblyReference.cache
+C:\Users\furkan\source\repos\LuxuryVacation.Proje\LuxuryVacation.Proje\obj\Debug\LuxuryVacation.Proje.csproj.SuggestedBindingRedirects.cache
+C:\Users\furkan\source\repos\LuxuryVacation.Proje\LuxuryVacation.Proje\obj\Debug\LuxuryVacation.Proje.Form1.resources
+C:\Users\furkan\source\repos\LuxuryVacation.Proje\LuxuryVacation.Proje\obj\Debug\LuxuryVacation.Proje.Properties.Resources.resources
+C:\Users\furkan\source\repos\LuxuryVacation.Proje\LuxuryVacation.Proje\obj\Debug\LuxuryVacation.Proje.csproj.GenerateResource.cache
+C:\Users\furkan\source\repos\LuxuryVacation.Proje\LuxuryVacation.Proje\obj\Debug\LuxuryVacation.Proje.csproj.CoreCompileInputs.cache
+C:\Users\furkan\source\repos\LuxuryVacation.Proje\LuxuryVacation.Proje\obj\Debug\LuxuryVacation.Proje.exe
+C:\Users\furkan\source\repos\LuxuryVacation.Proje\LuxuryVacation.Proje\obj\Debug\LuxuryVacation.Proje.pdb
+C:\Users\furkan\source\repos\LuxuryVacation.Proje\LuxuryVacation.Proje\obj\Debug\LuxuryVacation.Proje.Anasayfa.resources
